@@ -1,0 +1,11 @@
+spoon-ai-sdk
+pymupdf
+numpy
+faiss-cpu
+sentence-transformers
+streamlit
+gradio
+google-generativeai
+python-dotenv
+pydantic
+anthropic
